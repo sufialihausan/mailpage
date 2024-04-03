@@ -1,0 +1,2 @@
+# mailpage
+Use mail format
